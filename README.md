@@ -2,7 +2,7 @@
 
 
 ## Qu'est ce ?
-La structure de ce portfolio contient 3 rubriques : 
+Le portfolio est une pochette contenant des exemples de vos réalisations. Sa structure contient 3 rubriques : 
   - Qui suis je ?
   - Mes compétences
   - Les derniers projets
