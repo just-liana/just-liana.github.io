@@ -5,7 +5,7 @@
 Le portfolio est une pochette contenant des exemples de vos réalisations. Sa structure contient 3 rubriques : 
   - Qui suis je ?
   - Mes compétences
-  - Les derniers projets
+  - Mes projets
 
 Le design du site web est simple et minimaliste :
   - 3 boutons dans la barre du menu qui mènent vers linkedln, Github et un autre bouton non configuré (en cours de modification)
@@ -15,7 +15,7 @@ Le design du site web est simple et minimaliste :
 ## Quelle est l'utilité ?
 La réponse est simple :
   - Montrer qu'on est présent sur internet
-  - Montrer l'évolution de tes projets (le concret > mots sur le cv)
+  - Montrer l'évolution de mes projets (le concret > mots sur le cv)
 
 
 --> Fin... Merci d'avoir lu :)
