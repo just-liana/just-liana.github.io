@@ -67,6 +67,7 @@ svg,img { max-width: 100%; height: auto; }
 .ds-button{ display: inline-block; text-transform: uppercase;font-size: 12px;line-height: 13px;font-weight: 600;letter-spacing: 3px; color:#F26464; padding:17px 30px;  border: 2px solid #F26464;border-radius: 60px; }
 .ds-button:hover{ background-color:#F26464 ; color: #FFF; }
 .ds-button-sec {display: flex !important; justify-content: center !important; align-items: center; gap: 20px; width:100%}
+.ds-button-sec .ds-button { display: inline-block; width: auto; flex-shrink: 0;}
 .ds-arrow-button i{ display: inline-block; vertical-align: middle; }
 /*-----------------------------------------------------------------
   4. >>> Skills Style
